@@ -1,0 +1,8 @@
+D:\Programmation\DotnetCore\MergeGen\MergeGen.Core\bin\Debug\netstandard2.0\MergeGen.Core.deps.json
+D:\Programmation\DotnetCore\MergeGen\MergeGen.Core\bin\Debug\netstandard2.0\MergeGen.Core.dll
+D:\Programmation\DotnetCore\MergeGen\MergeGen.Core\bin\Debug\netstandard2.0\MergeGen.Core.pdb
+D:\Programmation\DotnetCore\MergeGen\MergeGen.Core\obj\Debug\netstandard2.0\MergeGen.Core.csproj.CoreCompileInputs.cache
+D:\Programmation\DotnetCore\MergeGen\MergeGen.Core\obj\Debug\netstandard2.0\MergeGen.Core.AssemblyInfoInputs.cache
+D:\Programmation\DotnetCore\MergeGen\MergeGen.Core\obj\Debug\netstandard2.0\MergeGen.Core.AssemblyInfo.cs
+D:\Programmation\DotnetCore\MergeGen\MergeGen.Core\obj\Debug\netstandard2.0\MergeGen.Core.dll
+D:\Programmation\DotnetCore\MergeGen\MergeGen.Core\obj\Debug\netstandard2.0\MergeGen.Core.pdb
